@@ -1,4 +1,4 @@
-package lab7;
+package file;
 
 public class Zombie extends Enemy {
 	
